@@ -16,5 +16,29 @@
     "url": "https://ssstwitter.com/",
     "desc": "Download Twitter/X videos and GIFs online.",
     "tags": ["tools", "download"]
+  },
+  {
+    "title": "Sejda - PDF Editor",
+    "url": "https://www.sejda.com/pdf-editor",
+    "desc": "Edit PDF files online: add text, images, shapes, and freehand drawings.",
+    "tags": ["tools", "pdf"]
+  },
+  {
+    "title": "Sejda",
+    "url": "https://www.sejda.com/",
+    "desc": "Online PDF tools: edit, merge, split, compress, and convert PDFs.",
+    "tags": ["tools", "pdf"]
+  },
+  {
+    "title": "Edit.org",
+    "url": "https://edit.org/edit",
+    "desc": "Design editor for creating images, posts, logos, and documents with templates.",
+    "tags": ["tools", "design"]
+  },
+  {
+    "title": "AI in a Cube - Work Calculator",
+    "url": "https://aiinacube.com/work_calculator.html",
+    "desc": "Online work hours calculator.",
+    "tags": ["tools", "calculator"]
   }
 ]
