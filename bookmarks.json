@@ -24,10 +24,22 @@
     "tags": ["tools", "pdf"]
   },
   {
-    "title": "Sejda",
-    "url": "https://www.sejda.com/",
-    "desc": "Online PDF tools: edit, merge, split, compress, and convert PDFs.",
-    "tags": ["tools", "pdf"]
+    "title": "Coolors",
+    "url": "https://coolors.co",
+    "desc": "Color palette generator and color scheme tool for designers.",
+    "tags": ["design", "colors"]
+  },
+  {
+    "title": "WhatsApp",
+    "url": "https://api.whatsapp.com/send?phone=9715",
+    "desc": "Start a WhatsApp chat with this contact.",
+    "tags": ["contact", "chat"]
+  },
+  {
+    "title": "DataTraining - Power BI Theme Starter",
+    "url": "https://datatraining.io/powerbi-theme-starter",
+    "desc": "Power BI theme JSON starter generator.",
+    "tags": ["powerbi", "tools"]
   },
   {
     "title": "Edit.org",
