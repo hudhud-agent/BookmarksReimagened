@@ -1,26 +1,20 @@
 [
   {
-    "title": "MDN Web Docs",
-    "url": "https://developer.mozilla.org",
-    "desc": "Resources for developers, by developers. HTML, CSS, JavaScript reference and guides.",
-    "tags": ["dev", "reference"]
+    "title": "Brandfolder Workbench - Extract Text from Image",
+    "url": "https://brandfolder.com/workbench/extract-text-from-image",
+    "desc": "Free online OCR tool to extract text from images.",
+    "tags": ["tools", "ocr"]
   },
   {
-    "title": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "desc": "Tech news and discussion for the startup and developer community.",
-    "tags": ["news", "tech"]
+    "title": "AdGuard DNS Dashboard - Settings",
+    "url": "https://adguard-dns.io/en/dashboard/settings?retention=HOURS_24",
+    "desc": "AdGuard DNS personal dashboard settings, 24h query log retention.",
+    "tags": ["privacy", "dns"]
   },
   {
-    "title": "GitHub",
-    "url": "https://github.com",
-    "desc": "Where the world builds software. Host and review code, manage projects.",
-    "tags": ["dev", "tools"]
-  },
-  {
-    "title": "Lobsters",
-    "url": "https://lobste.rs",
-    "desc": "Computing-focused technology community with a focus on what the creator calls the 'garden' of the web.",
-    "tags": ["news", "tech"]
+    "title": "SSSTwitter",
+    "url": "https://ssstwitter.com/",
+    "desc": "Download Twitter/X videos and GIFs online.",
+    "tags": ["tools", "download"]
   }
 ]
