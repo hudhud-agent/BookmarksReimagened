@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "desc": "Resources for developers, by developers. HTML, CSS, JavaScript reference and guides.",
+    "tags": ["dev", "reference"]
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "desc": "Tech news and discussion for the startup and developer community.",
+    "tags": ["news", "tech"]
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "desc": "Where the world builds software. Host and review code, manage projects.",
+    "tags": ["dev", "tools"]
+  },
+  {
+    "title": "Lobsters",
+    "url": "https://lobste.rs",
+    "desc": "Computing-focused technology community with a focus on what the creator calls the 'garden' of the web.",
+    "tags": ["news", "tech"]
+  }
+]
