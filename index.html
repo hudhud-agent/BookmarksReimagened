@@ -265,7 +265,7 @@
       const title = escapeHtml(b.title || hostOf(b.url));
       const desc = b.desc ? escapeHtml(b.desc) : "";
       const tags = (b.tags || []).map((t) => `<span class="mini-tag">${escapeHtml(t)}</span>`).join("");
-      const fav = faviconUrl(b.url);
+      const fav = b.icon || faviconUrl(b.url);
       return `
         <a class="card" href="${escapeHtml(b.url)}" target="_blank" rel="noopener noreferrer">
           <div class="card-top">
